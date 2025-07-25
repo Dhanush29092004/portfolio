@@ -31,7 +31,7 @@ npm install
 npm run dev
 ```
 
-##📬 Connect with me
+## 📬 Connect with me
 
 📧 Email: dhanushchimakurty2004@gmail.com
 
@@ -39,7 +39,7 @@ npm run dev
 
 🐙 GitHub:https://github.com/Dhanush29092004
 
-##📝 License
+## 📝 License
 
 This project is licensed under the MIT License — feel free to fork and make it your own!
 
